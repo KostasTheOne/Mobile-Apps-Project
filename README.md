@@ -34,6 +34,8 @@ https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
 Google Play Store dataset
 https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
+You can also find the csv files in the data folder, that I have created.
+
 🛠️ Tools & Libraries
 
 Python
